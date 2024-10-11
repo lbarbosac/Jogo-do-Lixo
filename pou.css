@@ -3,7 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+ 
 body {
-    background-color: aliceblue;
+    background-color: #f7f7f7;
+    background-image: url(./Jogo-do-Quiz/img/cenario-poluicao.gif);
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
 }
