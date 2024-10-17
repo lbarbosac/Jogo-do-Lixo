@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f7f7f7;
+}
+
+#h1Quebra {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: #00f;
+    display: block;
+    float: left;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+#h1Melao {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: #000;
+    display: block;
+    float: left;
+    margin-top: 15px;
+}
+
+.bolinhaQuestao {
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    background-color: #00f;
+    color: #f7f7f7;
+    display: block;
+    float: left;
+    margin-top: 100px;
+    margin-left: -220px;
+
+}
+
+.numQuestao {
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #f7f7f7;
+    text-align: center;
+    margin-top: 12px;
+}
+
+.pergunta {
+    width: 70%;
+    height: 90px;
+    background-color: purple;
+    display: block;
+    float: left;
+    margin-top: 105px;
+    margin-left: -60px;
+    border-radius: 8px;
+}
+
+.alternativas {
+    width: 80%;
+    height: 290px;
+    margin-top: 100px;
+    margin-left: 149px;
+    background-color: orange;
+    display: block;
+    float: left;
+    
+}
+
+.alternativa1 {
+    width: 480px;
+    height: 100px;
+    background-color: #00f;
+    border: solid 3px #000;
+    margin: 20px;
+    display: block;
+    float: left;
+    padding: 8px;
+}
+
+.alternativa2 {
+    width: 480px;
+    height: 100px;
+    background-color: #00f;
+    border: solid 3px #000;
+    margin: 20px;
+    display: block;
+    float: left;
+    padding: 8px;
+}
+
+.alternativa3 {
+    width: 480px;
+    height: 100px;
+    background-color: #00f;
+    border: solid 3px #000;
+    margin: 20px;
+    display: block;
+    float: left;
+    padding: 8px;
+}
+
+.alternativa4 {
+    width: 480px;
+    height: 100px;
+    background-color: #00f;
+    border: solid 3px #000;
+    margin: 20px;
+    display: block;
+    float: left;
+    padding: 8px;
+}
+
